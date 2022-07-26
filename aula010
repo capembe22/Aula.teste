@@ -1,0 +1,5 @@
+numero_inteiro = input('Digite um numero inteiro')
+
+if not numero_inteiro.isdgit():
+
+
